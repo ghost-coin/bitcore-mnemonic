@@ -42,7 +42,7 @@
   "dependencies": {
     "bitcore-lib": "^0.16.0",
     "bitcore-lib-cash": "^0.19.0",
-    "particl-bitcore-lib": "git://github.com/particl/particl-bitcore-lib.git",
+    "ghost-bitcore-lib": "git://github.com/ghost-coin/ghost-bitcore-lib.git",
     "unorm": "^1.4.1"
   },
   "peerDependencies": {
